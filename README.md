@@ -40,4 +40,4 @@
 
 ## Auteur
 
-- Projet initié par [TonNom] et Cascade AI
+- Projet initié par [Mc Doni] et Cascade AI
